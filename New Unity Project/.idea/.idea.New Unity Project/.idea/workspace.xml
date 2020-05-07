@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0ec2183-e096-4d98-90fc-2f647bc89043" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/enemies.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/ScoreController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/AudioController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/stomp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/scoleLevelTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../hangman/Hangman-Game-master/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Lose.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/start.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Leveltwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/bullets.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/enemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/stomp.cs" />
+        <option value="$PROJECT_DIR$/Assets/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/bullets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Leveltwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/scoleLevelTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/AudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/bullets.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Leveltwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Lose.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/scoleLevelTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/enemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/score.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/start.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/stomp.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bFGbWTlfDQRdvPVcPIV7CIPnBW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0ec2183-e096-4d98-90fc-2f647bc89043" name="Default Changelist" comment="" />
+      <created>1588220500757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588220500757</updated>
+      <workItem from="1588220508683" duration="7946000" />
+      <workItem from="1588234870659" duration="5103000" />
+      <workItem from="1588578577457" duration="44806000" />
+      <workItem from="1588723832084" duration="7000" />
+      <workItem from="1588746774893" duration="1848000" />
+      <workItem from="1588753218563" duration="7101000" />
+      <workItem from="1588836857561" duration="37000" />
+      <workItem from="1588836938053" duration="98000" />
+      <workItem from="1588837060074" duration="884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="341" y="183" width="840" height="1034" key="run.anything.popup" timestamp="1588601246397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" width="840" height="1034" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588601246397" />
+  </component>
+</project>
